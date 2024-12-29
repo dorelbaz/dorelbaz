@@ -8,7 +8,7 @@
 
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorelbaz&layout=donut-vertical&theme=onedark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorelbaz&layout=donut-vertical&theme=github_dark&hide_border=true)
 
 
 How to reach me: dorelbaz38860@gmail.com
