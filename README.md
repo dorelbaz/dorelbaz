@@ -8,7 +8,7 @@
 
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorelbaz&layout=donut-vertical&size_weight=0.5&count_weight=0.5&langs_count=8&theme=github_dark&hide_border=true&CACHE_SECONDS)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dorelbaz&layout=donut-vertical&size_weight=0.5&count_weight=0.5&hide=MakeFile&langs_count=8&theme=github_dark&hide_border=true&CACHE_SECONDS)
 
 ## Skills
 
